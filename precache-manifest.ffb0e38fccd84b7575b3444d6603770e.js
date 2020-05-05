@@ -1,23 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff83bfe5b694d10069fe",
+    "revision": "42bc92ba7b741d7d53e3",
     "url": "/anime_js/css/app.62f97952.css"
   },
   {
-    "revision": "82b9c7a5a3f405032b1db71a25f67021",
-    "url": "/anime_js/img/logo.82b9c7a5.png"
-  },
-  {
-    "revision": "9914c9984bee1f4580085900847efd12",
+    "revision": "36c16a3a94ebe06ded58a500d070a139",
     "url": "/anime_js/index.html"
   },
   {
-    "revision": "3d771eb5cd1a29675351",
-    "url": "/anime_js/js/about.98d76614.js"
+    "revision": "e05951e43b14de0f921d",
+    "url": "/anime_js/js/about.0a321a6a.js"
   },
   {
-    "revision": "ff83bfe5b694d10069fe",
-    "url": "/anime_js/js/app.f4254f24.js"
+    "revision": "42bc92ba7b741d7d53e3",
+    "url": "/anime_js/js/app.ea47c644.js"
   },
   {
     "revision": "5ec555cefc80750ca5ae",
